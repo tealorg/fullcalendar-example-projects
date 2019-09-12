@@ -20,22 +20,22 @@ document.addEventListener('DOMContentLoaded', function() {
     eventLimit: true, // allow "more" link when too many events
     events: [
       {
-        title: 'All Day Event',
+        title: 'DVSA Event',
         start: '2018-01-01',
       },
       {
-        title: 'Long Event',
+        title: 'DD GG Event',
         start: '2018-01-07',
         end: '2018-01-10'
       },
       {
         id: 999,
-        title: 'Repeating Event',
+        title: 'Mobile App Event',
         start: '2018-01-09T16:00:00'
       },
       {
         id: 999,
-        title: 'Repeating Event',
+        title: 'VTM Event',
         start: '2018-01-16T16:00:00'
       },
       {
