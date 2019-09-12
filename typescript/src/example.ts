@@ -20,11 +20,11 @@ document.addEventListener('DOMContentLoaded', function() {
     eventLimit: true, // allow "more" link when too many events
     events: [
       {
-        title: 'All Day Event',
+        title: 'DVSA Event',
         start: '2018-01-01',
       },
       {
-        title: 'Long Event',
+        title: 'DD GG Event',
         start: '2018-01-07',
         end: '2018-01-10'
       },
@@ -39,7 +39,7 @@ document.addEventListener('DOMContentLoaded', function() {
         start: '2018-01-16T16:00:00'
       },
       {
-        title: 'Conference',
+        title: 'Oket Conference',
         start: '2018-01-11',
         end: '2018-01-13'
       },
@@ -65,7 +65,7 @@ document.addEventListener('DOMContentLoaded', function() {
         start: '2018-01-12T20:00:00'
       },
       {
-        title: 'Birthday Party',
+        title: 'Temi Party',
         start: '2018-01-13T07:00:00'
       },
       {
