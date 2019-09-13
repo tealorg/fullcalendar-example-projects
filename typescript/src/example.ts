@@ -20,11 +20,11 @@ document.addEventListener('DOMContentLoaded', function() {
     eventLimit: true, // allow "more" link when too many events
     events: [
       {
-        title: 'DVSA Event',
+        title: 'TEALORG Event',
         start: '2018-01-01',
       },
       {
-        title: 'DD GG Event',
+        title: 'Gareth Green Event',
         start: '2018-01-07',
         end: '2018-01-10'
       },
